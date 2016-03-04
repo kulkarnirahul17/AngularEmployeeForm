@@ -1,0 +1,6 @@
+C:\Development\MVC\AngularForms\bin\AngularForms.dll.config
+C:\Development\MVC\AngularForms\bin\AngularForms.dll
+C:\Development\MVC\AngularForms\bin\AngularForms.pdb
+C:\Development\MVC\AngularForms\obj\Debug\AngularForms.csprojResolveAssemblyReference.cache
+C:\Development\MVC\AngularForms\obj\Debug\AngularForms.dll
+C:\Development\MVC\AngularForms\obj\Debug\AngularForms.pdb
